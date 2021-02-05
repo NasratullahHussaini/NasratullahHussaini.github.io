@@ -1,0 +1,21 @@
+body {
+    font-family: helvetica, arial, sans-serif;
+  text-align: justify;
+    background-color: lightblue;
+    border: 5px solid gray;
+    margin: 0;
+}
+h1 {
+    color:black;
+    text-align: center;
+    padding: 20px;
+
+}
+h2 {
+    text-align: center;
+}
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
